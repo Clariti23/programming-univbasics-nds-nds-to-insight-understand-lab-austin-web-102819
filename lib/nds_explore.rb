@@ -12,11 +12,8 @@ def pretty_print_nds(nds)
 end
 
 def print_first_directors_movie_titles
-  i = 0 
-  while i < directors_database.length do 
-    if 
   
-    
-      
+  directors_database.each_key do |key|
+   puts key
   end  
 end
