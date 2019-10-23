@@ -12,5 +12,8 @@ def pretty_print_nds(nds)
 end
 
 def print_first_directors_movie_titles
-  while 
+   i = 0 
+  while i < directors_database.length do 
+    if i == "Spielberg"
+  end  
 end
