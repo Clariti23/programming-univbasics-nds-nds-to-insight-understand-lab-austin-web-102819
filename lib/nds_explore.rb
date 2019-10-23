@@ -12,8 +12,5 @@ def pretty_print_nds(nds)
 end
 
 def print_first_directors_movie_titles
-  
-  directors_database.each_key do |key|
-   puts key
-  end  
+  nds["Spielberrg"]
 end
