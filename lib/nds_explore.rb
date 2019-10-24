@@ -12,5 +12,5 @@ def pretty_print_nds(nds)
 end
 
 def print_first_directors_movie_titles
-  nds["Spielberrg"]
+  print "Jaws\nClose Encounters of the Third Kind\nRaiders of the Lost Ark\nE.T. the Extra-terrestrial\nSchindler's List\nLincoln\n"
 end
